@@ -1,5 +1,6 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
+*The README describes the the project environment details (i.e., the state and action spaces, and when the environment is considered solved*
 # Project: Navigation
 
 ## The Environment
@@ -32,6 +33,10 @@ The task is episodic, and in order to solve the environment, your agent get an a
 
 2. Place the file in the project folder (where the file `Navigation.ipynb` is located), and unzip (or decompress) the file. 
 
-### Instructions
+## Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
+
+A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
+
+
