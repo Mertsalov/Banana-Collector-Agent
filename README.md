@@ -35,7 +35,7 @@ The task is episodic, and in order to solve the environment, your agent get an a
 
 ## Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
+Follow the instructions in `Navigation.ipynb` to get started with training the agent!
 
 The plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
 
